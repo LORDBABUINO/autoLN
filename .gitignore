@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+flaml_ln.log
+
+# Virtual environments
+.venv
+
+# IDE related files
+.specstory
+.vscode
+.cursorindexingignore
+.cursorrules
+.cursorignore
+.cursorignorerules
+.cursorignorerules
+
+# Temp files
+test.ipynb
